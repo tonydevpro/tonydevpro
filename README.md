@@ -1,6 +1,6 @@
 ## 👋 Olá! Bem-vindo(a) ao perfil do Tony Dev 😁
 
-🎯 Desenvolvedor Front-End em formação | HTML • CSS • JavaScript
+🎯 Desenvolvedor Full-Stack em formação | HTML • CSS • JavaScript • Node.Js
 
 Sou apaixonado por tecnologia e estou em constante evolução como desenvolvedor. Atualmente, estudo **Análise e Desenvolvimento de Sistemas** e foco em projetos front-end com **HTML, CSS e JavaScript**. 🚀
 
@@ -20,6 +20,8 @@ Busco oportunidades para crescer profissionalmente e contribuir com soluções c
 ### 🛠️ Tecnologias que uso
 
 <div style="display: inline_block"><br>
+  
+  <img align="center" alt="Node.Js" title="Node.JS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="JavaScript" title="JavaScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="HTML5" title="HTML5" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="CSS3" title="CSS3" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
